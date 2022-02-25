@@ -1,0 +1,779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artificial versifying or, The school-boy's recreation A new way to make Latin verses. Whereby any one of ordinary capacity, that only knows the A.B.C. and can count 9 (though he understands not one word of Latin, or what a verse means) may be plainly taught, (and in as little a time as this is reading over,) how to make hundreds of hexameter verses, which shall be true Latin, true verse, and good sense. Never before publish'd.</title>
+            <author>Peter, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56572</idno>
+            <idno type="STC">Wing P682A</idno>
+            <idno type="STC">ESTC R220464</idno>
+            <idno type="EEBO-CITATION">99831864</idno>
+            <idno type="PROQUEST">99831864</idno>
+            <idno type="VID">36331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Artificial versifying or, The school-boy's recreation A new way to make Latin verses. Whereby any one of ordinary capacity, that only knows the A.B.C. and can count 9 (though he understands not one word of Latin, or what a verse means) may be plainly taught, (and in as little a time as this is reading over,) how to make hundreds of hexameter verses, which shall be true Latin, true verse, and good sense. Never before publish'd.</title>
+                  <author>Peter, John.</author>
+               </titleStmt>
+               <extent>[2], 20 p. : tables  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Sims at the Kings Head, in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Peter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin language --  Metrics and rhythmics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36331:1" rendition="simple:additions"/>
+            <p>
+               <hi>ARTIFICIAL VERSIFYING</hi> OR, THE SCHOOL-BOY'S Recreation.</p>
+            <p>A New WAY to make LATIN VERSES.</p>
+            <p>WHEREBY Any one of ordinary Capacity, that only knows the A.B.C. and can Count 9 (though he underſtands not one word of <hi>La<g ref="char:EOLhyphen"/>tin,</hi> or what a <hi>Verſe</hi> means) may be plainly taught, (and in as little a time as this is Reading over,) how to make Hundreds of <hi>Hexameter Verſes,</hi> which ſhall be True <hi>Latin,</hi> True <hi>Verſe,</hi> and good <hi>Senſe.</hi>
+            </p>
+            <q>Arithmeticae ignarus hic ingrediatur.</q>
+            <p>Never before Publiſh'd.</p>
+            <p>LONDON, Printed for <hi>John Sims</hi> at the <hi>Kings</hi> Head, in <hi>Cornhil.</hi> 1677.</p>
+            <pb facs="tcp:36331:2" rendition="simple:additions"/>
+            <pb facs="tcp:36331:2"/>
+            <pb facs="tcp:36331:3" rendition="simple:additions"/>
+            <pb facs="tcp:36331:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36331:4"/>
+            <pb n="1" facs="tcp:36331:4"/>
+            <head>Artificial Verſifying, Or<g ref="char:punc">▪</g> The School-Boy<hi>'s</hi> Recreation.</head>
+            <p>GREAT is the <hi>Force</hi> of <hi>Num<g ref="char:EOLhyphen"/>bers</hi> in the Diſcovery of <hi>Na<g ref="char:EOLhyphen"/>tures Secrets;</hi> the <hi>Reaſon</hi> of <hi>Numbers</hi> (if we dare Credit <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> in <hi>Wiſd.</hi> 11.20.) was one of the chiefeſt <hi>Rules</hi> according to which <hi>God</hi> fram'd the <hi>World,</hi> ſo that to ſet light by the <hi>power</hi> of <hi>Numbers,</hi> is to undervalue the <hi>Wiſdome</hi> of the great <hi>Creator,</hi> who made uſe of <hi>them,</hi> as the <hi>Prime Inſtruments,</hi> by which he <hi>Modulated</hi> the whole <hi>Creation:</hi> All the pleaſure and ſatisfaction we can receive from <hi>Natural Speculations,</hi> is but dull and inſipid, in compariſon to the tranſporting Complacencies, which from
+<pb n="2" facs="tcp:36331:5"/>
+               <hi>thence</hi> may be extracted by <hi>this kind</hi> of <hi>Harmony,</hi> as is much better known unto every man, by how much the more he is exerciſed in <hi>theſe Operations.</hi>
+            </p>
+            <p>There hath been much time and dili<g ref="char:EOLhyphen"/>gence beſtowed by induſtrious and learn<g ref="char:EOLhyphen"/>ed Men of <hi>Communicative Spirits,</hi> of <hi>For<g ref="char:EOLhyphen"/>mer Ages,</hi> and of <hi>late years,</hi> to Reduce their <hi>Arithmetical Theories</hi> into <hi>Practice,</hi> to <hi>Fit</hi> their <hi>Concluſions</hi> to <hi>Inſtrumental Work,</hi> for the benefit of <hi>illiterate Artificers:</hi> And ſo ſucceſsful have their endeavors proved, that thereby <hi>commodious Advantages</hi> have accrued to Perſons of <hi>diverſe Faculties;</hi> who though they have been altogether ignorant of <hi>Arithmetick,</hi> and of <hi>all Lite<g ref="char:EOLhyphen"/>rature,</hi> yet by the benefit of <hi>Inſtrumental Operation,</hi> they have been capacitated to perform ſuch <hi>Concluſions</hi> as their reſpective <hi>Faculties</hi> required, though thereof they have not been able to give a better <hi>Rea<g ref="char:EOLhyphen"/>ſon,</hi> then, <hi>That it is ſo, becauſe it is ſo.</hi>
+            </p>
+            <p>Now leaſt the <hi>Common Fidler,</hi> (who, though ignorant in <hi>Muſical Proportions,</hi>
+               <pb n="3" facs="tcp:36331:5"/>can notwithſtanding Play <hi>Tuneably</hi> on his <hi>Inſtrument.</hi>) And leſt the <hi>Carpenter, Gla<g ref="char:EOLhyphen"/>ſier,</hi> or <hi>Brick layer,</hi> (who, though not at all Vers'd in <hi>Arithmetick,</hi> can by his <hi>Rule</hi> know the <hi>Content</hi> of his <hi>Work,</hi>) ſhould <hi>boaſt</hi> of their <hi>Advantages</hi> and <hi>Triumph</hi> o<g ref="char:EOLhyphen"/>ver the <hi>Latiniſt</hi> and the <hi>Poet,</hi> I have thought Fit to Publiſh this following <hi>In<g ref="char:EOLhyphen"/>vention,</hi> to ſtop the <hi>Career</hi> of their <hi>Me<g ref="char:EOLhyphen"/>chanical Oſtentation.</hi>
+            </p>
+            <p>For by the following <hi>Tables,</hi> any one of the <hi>meaneſt</hi> Capacity, that only knows the A. B. C. and can count 9, (though he underſtands not <hi>one word</hi> of <hi>Latin,</hi> or what a <hi>Verſe</hi> is) may be immediately <hi>Taught</hi> how to Compoſe <hi>Hundreds</hi> of <hi>Hexameter Verſes,</hi> which ſhall be <hi>True La<g ref="char:EOLhyphen"/>tin, True Verſe,</hi> and <hi>Good Senſe.</hi>
+            </p>
+            <div type="tables">
+               <pb facs="tcp:36331:6"/>
+               <head>The Versifying Tables</head>
+               <p>
+                  <table>
+                     <head>.1.</head>
+                     <row>
+                        <cell>i</cell>
+                        <cell>s</cell>
+                        <cell>a</cell>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                        <cell>h</cell>
+                        <cell>t</cell>
+                        <cell>p</cell>
+                        <cell>p</cell>
+                        <cell>m</cell>
+                        <cell>o</cell>
+                     </row>
+                     <row>
+                        <cell>s</cell>
+                        <cell>u</cell>
+                        <cell>r</cell>
+                        <cell>o</cell>
+                        <cell>u</cell>
+                        <cell>e</cell>
+                        <cell>e</cell>
+                        <cell>p</cell>
+                        <cell>r</cell>
+                        <cell>p</cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>r</cell>
+                        <cell>r</cell>
+                        <cell>s</cell>
+                        <cell>r</cell>
+                        <cell>i</cell>
+                        <cell>d</cell>
+                        <cell>e</cell>
+                        <cell>b</cell>
+                        <cell>s</cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>p</cell>
+                        <cell>s</cell>
+                        <cell>f</cell>
+                        <cell>a</cell>
+                        <cell>i</cell>
+                        <cell>r</cell>
+                        <cell>i</cell>
+                        <cell>t</cell>
+                        <cell>i</cell>
+                        <cell>i</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell>a</cell>
+                        <cell>d</cell>
+                        <cell>i</cell>
+                        <cell>d</cell>
+                        <cell>a</cell>
+                        <cell>m</cell>
+                        <cell>d</cell>
+                        <cell>b</cell>
+                     </row>
+                     <row>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>.2.</head>
+                     <row>
+                        <cell>d</cell>
+                        <cell>f</cell>
+                        <cell>f</cell>
+                        <cell>b</cell>
+                        <cell>i</cell>
+                        <cell>v</cell>
+                        <cell>v</cell>
+                        <cell>d</cell>
+                        <cell>d</cell>
+                        <cell>i</cell>
+                        <cell>a</cell>
+                     </row>
+                     <row>
+                        <cell>a</cell>
+                        <cell>e</cell>
+                        <cell>u</cell>
+                        <cell>o</cell>
+                        <cell>e</cell>
+                        <cell>o</cell>
+                        <cell>a</cell>
+                        <cell>c</cell>
+                        <cell>c</cell>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                     </row>
+                     <row>
+                        <cell>r</cell>
+                        <cell>t</cell>
+                        <cell>r</cell>
+                        <cell>n</cell>
+                        <cell>m</cell>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                        <cell>a</cell>
+                        <cell>l</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                     </row>
+                     <row>
+                        <cell>b</cell>
+                        <cell>a</cell>
+                        <cell>n</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:36331:6" rendition="simple:additions"/>
+               <p>
+                  <table>
+                     <head>.3.</head>
+                     <row>
+                        <cell>m</cell>
+                        <cell>t</cell>
+                        <cell>i</cell>
+                        <cell>v</cell>
+                        <cell>m</cell>
+                        <cell>v</cell>
+                        <cell>r</cell>
+                        <cell>a</cell>
+                        <cell>s</cell>
+                        <cell>i</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell>n</cell>
+                        <cell>i</cell>
+                        <cell>a</cell>
+                        <cell>i</cell>
+                        <cell>e</cell>
+                        <cell>l</cell>
+                        <cell>c</cell>
+                        <cell>h</cell>
+                        <cell>b</cell>
+                        <cell>q</cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>l</cell>
+                        <cell>d</cell>
+                        <cell>o</cell>
+                        <cell>i</cell>
+                        <cell>i</cell>
+                        <cell>i</cell>
+                        <cell>i</cell>
+                        <cell>u</cell>
+                        <cell>o</cell>
+                        <cell>i</cell>
+                        <cell>e</cell>
+                     </row>
+                     <row>
+                        <cell>r</cell>
+                        <cell>i</cell>
+                        <cell>o</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell>s</cell>
+                        <cell>s</cell>
+                        <cell> </cell>
+                        <cell>s</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>r</cell>
+                        <cell>m</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>.4.</head>
+                     <row>
+                        <cell>p</cell>
+                        <cell>p</cell>
+                        <cell>m</cell>
+                        <cell>p</cell>
+                        <cell>p</cell>
+                        <cell>c</cell>
+                        <cell>c</cell>
+                        <cell>p</cell>
+                        <cell>c</cell>
+                        <cell>r</cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>o</cell>
+                        <cell>o</cell>
+                        <cell>r</cell>
+                        <cell>a</cell>
+                        <cell>o</cell>
+                        <cell>r</cell>
+                        <cell>o</cell>
+                        <cell>ae</cell>
+                        <cell>o</cell>
+                        <cell>n</cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>o</cell>
+                        <cell>u</cell>
+                        <cell>n</cell>
+                        <cell>o</cell>
+                        <cell>n</cell>
+                        <cell>d</cell>
+                        <cell>c</cell>
+                        <cell>s</cell>
+                        <cell>t</cell>
+                        <cell>m</cell>
+                        <cell>s</cell>
+                     </row>
+                     <row>
+                        <cell>c</cell>
+                        <cell>d</cell>
+                        <cell>f</cell>
+                        <cell>i</cell>
+                        <cell>u</cell>
+                        <cell>t</cell>
+                        <cell>a</cell>
+                        <cell>i</cell>
+                        <cell>a</cell>
+                        <cell>e</cell>
+                        <cell>u</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>c</cell>
+                        <cell>r</cell>
+                        <cell>r</cell>
+                        <cell>b</cell>
+                        <cell>t</cell>
+                        <cell>b</cell>
+                        <cell>d</cell>
+                        <cell>c</cell>
+                        <cell>r</cell>
+                        <cell>u</cell>
+                     </row>
+                     <row>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell>u</cell>
+                        <cell>t</cell>
+                        <cell>u</cell>
+                        <cell>u</cell>
+                        <cell>u</cell>
+                        <cell>m</cell>
+                        <cell>n</cell>
+                        <cell>n</cell>
+                        <cell>b</cell>
+                     </row>
+                     <row>
+                        <cell>n</cell>
+                        <cell>u</cell>
+                        <cell>n</cell>
+                        <cell>n</cell>
+                        <cell>n</cell>
+                        <cell>a</cell>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                        <cell>u</cell>
+                        <cell>t</cell>
+                        <cell>n</cell>
+                     </row>
+                     <row>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                        <cell>n</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>n</cell>
+                        <cell> </cell>
+                        <cell>t</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>t</cell>
+                        <cell>b</cell>
+                        <cell>b</cell>
+                        <cell>t</cell>
+                        <cell>r</cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>r</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>b</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:36331:7"/>
+               <p>
+                  <table>
+                     <head>5</head>
+                     <row>
+                        <cell>s</cell>
+                        <cell>s</cell>
+                        <cell>p</cell>
+                        <cell>f</cell>
+                        <cell>c</cell>
+                        <cell>t</cell>
+                        <cell>d</cell>
+                        <cell>i</cell>
+                        <cell>p</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell>o</cell>
+                        <cell>i</cell>
+                        <cell>oe</cell>
+                        <cell>r</cell>
+                        <cell>e</cell>
+                        <cell>o</cell>
+                        <cell>u</cell>
+                        <cell>o</cell>
+                        <cell>d</cell>
+                        <cell>m</cell>
+                     </row>
+                     <row>
+                        <cell>g</cell>
+                        <cell>d</cell>
+                        <cell>i</cell>
+                        <cell>m</cell>
+                        <cell>g</cell>
+                        <cell>r</cell>
+                        <cell>c</cell>
+                        <cell>e</cell>
+                        <cell>n</cell>
+                        <cell>n</cell>
+                     </row>
+                     <row>
+                        <cell>e</cell>
+                        <cell>m</cell>
+                        <cell>p</cell>
+                        <cell>m</cell>
+                        <cell>g</cell>
+                        <cell>u</cell>
+                        <cell>r</cell>
+                        <cell>i</cell>
+                        <cell>o</cell>
+                        <cell>r</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>o</cell>
+                        <cell>a</cell>
+                        <cell>i</cell>
+                        <cell>l</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell>r</cell>
+                        <cell>a</cell>
+                        <cell>n</cell>
+                     </row>
+                     <row>
+                        <cell>r</cell>
+                        <cell>t</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                     </row>
+                     <row>
+                        <cell>a</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>r</cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>6</head>
+                     <row>
+                        <cell>m</cell>
+                        <cell>q</cell>
+                        <cell>c</cell>
+                        <cell>t</cell>
+                        <cell>p</cell>
+                        <cell>s</cell>
+                        <cell>p</cell>
+                        <cell>s</cell>
+                        <cell>s</cell>
+                        <cell>u</cell>
+                        <cell>u</cell>
+                     </row>
+                     <row>
+                        <cell>e</cell>
+                        <cell>a</cell>
+                        <cell>l</cell>
+                        <cell>o</cell>
+                        <cell>r</cell>
+                        <cell>e</cell>
+                        <cell>ae</cell>
+                        <cell>l</cell>
+                        <cell>ae</cell>
+                        <cell>r</cell>
+                        <cell>n</cell>
+                     </row>
+                     <row>
+                        <cell>a</cell>
+                        <cell>l</cell>
+                        <cell>a</cell>
+                        <cell>m</cell>
+                        <cell>p</cell>
+                        <cell>t</cell>
+                        <cell>d</cell>
+                        <cell>t</cell>
+                        <cell>t</cell>
+                        <cell>n</cell>
+                        <cell>a</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>p</cell>
+                        <cell>e</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell>a</cell>
+                        <cell>u</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                        <cell>a</cell>
+                        <cell>e</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>m</cell>
+                        <cell> </cell>
+                        <cell>m</cell>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell>r</cell>
+                        <cell>r</cell>
+                        <cell>b</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell>b</cell>
+                        <cell>r</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="application">
+               <pb n="7" facs="tcp:36331:7"/>
+               <head>The <g ref="char:V">Ʋ</g>ſe of the TABLES, and Manner of Operation.</head>
+               <p n="1">I. YOU are to know, that every Verſe which you are to make by <hi>theſe Tables,</hi> will be an <hi>Hex<g ref="char:EOLhyphen"/>ameter Verſe,</hi> (ſo called, becauſe thoſe kind of <hi>Verſes</hi> conſiſt of <hi>Six Feet,</hi> nei<g ref="char:EOLhyphen"/>ther more, nor leſs,) and will be made up of juſt Six <hi>Latin Words.</hi>
+               </p>
+               <p n="2">II. You are to Note, that every one of thoſe ſix <hi>Words,</hi> are orderly to be produ<g ref="char:EOLhyphen"/>ced out of the ſix <hi>Tables</hi> reſpectively, <hi>viz.</hi> the <hi>firſt Word</hi> of the <hi>Verſe</hi> is to be wrought out of the <hi>Firſt Table,</hi> the <hi>Second Word</hi> of the <hi>Verſe</hi> is to be produced out of the <hi>Se<g ref="char:EOLhyphen"/>cond Table,</hi> the <hi>Third Word</hi> is to ariſe out of the <hi>Third Table,</hi> and ſo the <hi>Fourth, Fifth</hi> and <hi>Laſt Words</hi> of the <hi>Verſe,</hi> are to be wrought out of the Fourth, Fifth and Sixth <hi>Tables</hi> reſpectively.</p>
+               <pb n="8" facs="tcp:36331:8"/>
+               <p n="3">III. You are to underſtand, that when<g ref="char:EOLhyphen"/>ever you ſhall be minded to make a <hi>Verſe</hi> by <hi>theſe Tables,</hi> you muſt ſet down on a piece of Paper any <hi>Six</hi> of the <hi>Nine Fi<g ref="char:EOLhyphen"/>gures,</hi> called <hi>Digits, viz.</hi> 1.2.3.4.5, 6.7.8.9.</p>
+               <p>But he that cannot write or reade, may conceive any <hi>Six</hi> of <hi>them</hi> in his Minde; and ſince he may be taught the Uſe of <hi>theſe Tables,</hi> either <hi>by Word of Mouth,</hi> or <hi>by Hearing theſe Directions read,</hi> the thing to him will be the ſame, thoroughout the whole Operation, as to him that can write and reade.</p>
+               <p n="4">IV. Six of any of thoſe <hi>Nine Figures</hi> being ſet down on a <hi>Piece of Paper,</hi> are as ſo many reſpective <hi>Keyes</hi> to the Six <hi>Tables:</hi> the <hi>firſt Figure</hi> towards the left Hand, is always to be applied to the <hi>firſt Table,</hi> and is the <hi>Proper Key</hi> to <hi>that Table;</hi> The <hi>ſe<g ref="char:EOLhyphen"/>cond Figure,</hi> (always reckoning their pla<g ref="char:EOLhyphen"/>ces orderly towards the right Hand) is to be always appropriated to the ſecond <hi>Table;</hi> The <hi>Third Figure,</hi> in order, is as
+<pb n="9" facs="tcp:36331:8"/>the proper <hi>Key</hi> to the <hi>Third Table:</hi> and ſo every one of the Six <hi>Figures</hi> are or<g ref="char:EOLhyphen"/>derly to be applied to their reſpective <hi>Tables,</hi> ſo that the <hi>firſt Figure</hi> out of the <hi>firſt Table</hi> produces the <hi>firſt</hi> Word of the <hi>Verſe;</hi> the <hi>ſecond</hi> Figure by the ſe<g ref="char:EOLhyphen"/>cond <hi>Table,</hi> works out the <hi>ſecond</hi> word of the <hi>Verſe;</hi> and ſo the Six Figures do pro<g ref="char:EOLhyphen"/>duce the ſix words of the Verſe out of their reſpective Tables.</p>
+               <p n="5">V. When you have Pitched upon any ſix <hi>Figures</hi> to make your <hi>Set</hi> of, and put them down on Paper, the way to work them out ſo, that every of the ſix Figures may produce its reſpective <hi>Latin word</hi> out of its proper Table, (to which by its place or order it appertains) I ſay, the Rule for Operation is this, <hi>viz.</hi> With the <hi>Fi<g ref="char:EOLhyphen"/>gure</hi> that belongs to its <hi>proper Table,</hi> you muſt Number on with the Columns of the ſaid Table, till you come to 9 in count upon the <hi>Columns,</hi> (reckoning the firſt Column of the Table always one more <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen the <hi>Figure,</hi>) at which Ninth <hi>Column</hi>
+                  <pb n="10" facs="tcp:36331:9"/>you are always to make a <hi>Stop,</hi> (for in the whole Operation you are never to count paſt 9) and diligently mark the <hi>Letter</hi> you ſhall finde <hi>therein,</hi> and write it down on a Piece of Paper, (which is to be the <hi>firſt</hi> Letter of your <hi>Latin</hi> word,) and as diligently you are to obſerve the <hi>Column,</hi> wherein you found that <hi>Letter,</hi> (which if you miſtake, your whole Operation for <hi>that word</hi> will be fruſtrated,) from which Column, count the <hi>ſucceeding Columns</hi> till you come to the Ninth, and mark well that Ninth <hi>Column,</hi> and <hi>the Letter</hi> in it, which you muſt put down on the Paper to the <hi>other</hi> Letter, and ſo counting for<g ref="char:EOLhyphen"/>ward to the Ninth <hi>Column,</hi> ſee what <hi>Let<g ref="char:EOLhyphen"/>ter</hi> is <hi>therein,</hi> and add it to the other on the Paper, and ſo do till the <hi>Word</hi> is wrought out by <hi>that Table,</hi> which that you may know, it is ſo contrived, that when the <hi>Word</hi> is ended, the <hi>laſt Count</hi> of 9 will fall upon a <hi>Blank-Column.</hi>
+               </p>
+               <p>But ſince the <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of the <hi>Tables</hi> will be more clear by <hi>Example,</hi> I ſhall ſo clearly
+<pb n="11" facs="tcp:36331:9"/>and evidently declare <hi>their uſe</hi> by <hi>this Set</hi> of <hi>Figures</hi> (467182) working <hi>every Figure</hi> thorough its <hi>proper Table,</hi> that it ſhall be apprehended by the <hi>meaneſt</hi> Capacity.</p>
+               <p>
+                  <hi>Example,</hi> 467182.</p>
+               <p>The <hi>firſt Figure</hi> towards the left Hand being (4) belongs to the firſt <hi>Table,</hi> and therefore I ſhall call the <hi>firſt Column</hi> of that Table 5, the <hi>ſecond</hi> Column 6, the <hi>third</hi> Column 7, the <hi>fourth</hi> Column 8, and the <hi>next</hi> Column 9, at which I ſtop, and obſerving the <hi>Letter</hi> that is in <hi>that</hi> Column, which is <hi>(t).</hi> I ſet it down on a Piece of Paper: and becauſe it is to be the <hi>firſt</hi> Letter of the <hi>firſt</hi> word of the <hi>Verſe,</hi> I put it down at the beginning of a Line, and with a great <hi>Letter</hi> thus,</p>
+               <q>
+                  <p>
+                     <hi>1 2 3 4 5 6</hi>
+                  </p>
+                  <p>Triſtia fata tibi producunt Sidera prava.</p>
+               </q>
+               <p>Then the <hi>next</hi> Column, wherein I found that <hi>t,</hi> I reckon 1, the <hi>next</hi> Column to that 2, the next 3, and ſo I count the
+<pb n="12" facs="tcp:36331:10"/>
+                  <hi>Columns</hi> on in order, till I come to the Ninth <hi>Column</hi> from the ſaid <hi>t,</hi> wherein finding the <hi>Letter (r)</hi> I put it down next to <hi>t</hi> as above; then well marking the <hi>Column</hi> in which I found that <hi>r,</hi> I from thence count on (as I did from <hi>t</hi>) orderly to the ninth <hi>Column,</hi> and therein finding the Letter <hi>(i) I</hi> add <hi>that</hi> to <hi>r</hi> as above: from <hi>this, i, I</hi> reckon till <hi>I</hi> come to the ninth <hi>Column,</hi> wherein I finde the Letter <hi>(s),</hi> which putting down to <hi>i,</hi> as above, I go on to count from <hi>this s,</hi> to the ninth <hi>Co<g ref="char:EOLhyphen"/>lumn,</hi> as therein finding the <hi>Letter (t), I</hi> add it to <hi>s,</hi> as you ſee above; I proceed to reckon the ninth <hi>Column</hi> from this <hi>t,</hi> and therein finding <hi>the Letter (i), I</hi> put it down next to <hi>t,</hi> as above: then to the ninth <hi>Column</hi> from this <hi>i, I</hi> therein finde the Letter <hi>(a),</hi> which putting down next to <hi>i, I</hi> proceed to count on to the ninth <hi>Column</hi> from <hi>a,</hi> but therein finding a <hi>Blank, I</hi> thereby know that the <hi>whole word</hi> is wrought out, and there are to be <hi>no more Letters</hi> in the <hi>firſt</hi> word of the <hi>Verſe,</hi> then thoſe above, <hi>viz. Triſtia.</hi>
+               </p>
+               <pb n="13" facs="tcp:36331:10"/>
+               <p>To work out the <hi>ſecond word</hi> of the <hi>Verſe</hi> by the <hi>ſecond Figure</hi> in order, which is (6), <hi>I</hi> apply <hi>it</hi> to the ſecond Table, and call the <hi>firſt Column</hi> thereof 7, the <hi>ſecond Column</hi> in order 8, and next 9, at which <hi>I</hi> ſtop, and finding therein the <hi>Letter (f), I</hi> put it down on the paper in the <hi>ſame</hi> Line with <hi>Triſtia</hi> at a convenient diſtance, becauſe it is to begin another <hi>word,</hi> and beginning from the <hi>Column</hi> in which <hi>I</hi> found <hi>f,</hi> to count the <hi>Columns</hi> till <hi>I</hi> come to the ninth, <hi>I</hi> finde therein the <hi>letter (a),</hi> and putting it down to <hi>f,</hi> as above; from this <hi>a</hi> I reckon till <hi>I</hi> come to the ninth <hi>Column, I</hi> therein meeting with the Let<g ref="char:EOLhyphen"/>ter <hi>(t),</hi> and putting it down to <hi>a</hi> as before, <hi>I</hi> from thence cont to the ninth <hi>Column,</hi> and finding therein the <hi>Letter (a), I</hi> adde it to <hi>t,</hi> as you ſee before, and proceed to reckon on to the ninth <hi>Column</hi> from thence, wherein finding a <hi>Blank, I</hi> there<g ref="char:EOLhyphen"/>by do know, that the <hi>Word</hi> is compoſed, and that there is to be <hi>no more Letters</hi> in the <hi>ſecond word</hi> of the <hi>Verſe</hi> then, <hi>fata.</hi>
+               </p>
+               <pb n="14" facs="tcp:36331:11"/>
+               <p>To work out the <hi>third Word</hi> of the <hi>Verſe</hi> by the third <hi>Table,</hi> I apply to it the third <hi>Figure</hi> (in order in the <hi>Set</hi>) which is (7) and do therefore call the <hi>firſt Column</hi> of <hi>that</hi> Table 8, the ſecond <hi>Column</hi> 9, in which I find the <hi>Letter (t),</hi> which I put down in the ſame line next to <hi>Fata,</hi> at a convenient diſtance, becauſe it is to begin <hi>another</hi> word, from which <hi>Column</hi> I count till I come to the Ninth, and therein find<g ref="char:EOLhyphen"/>ing the <hi>Letter (i),</hi> I put it down to <hi>t,</hi> as before, and from thence reckoning to the Ninth <hi>Column,</hi> I there Find the <hi>letter (b),</hi> which adding to <hi>i,</hi> (as you ſee before) I from thence count to the ninth <hi>Co<g ref="char:EOLhyphen"/>lumn,</hi> and therein Finding the <hi>Letter (i)</hi> I put it down to <hi>(b),</hi> and counting from this <hi>i,</hi> to the Ninth <hi>Column,</hi> I there do Find a <hi>Blank,</hi> by which I know that there are to be <hi>no more Letters</hi> in the third <hi>Word</hi> of this <hi>Verſe</hi> then, <hi>tibi.</hi>
+               </p>
+               <p>To Work out the fourth <hi>Word</hi> of the <hi>Verſe,</hi> I apply the <hi>fourth Figure</hi> in order in the Set, which is (1) to the fourth <hi>Table,</hi>
+                  <pb n="15" facs="tcp:36331:11"/>and count the <hi>firſt Column</hi> thereof 2, the <hi>ſe<g ref="char:EOLhyphen"/>cond Column</hi> 3, and ſo on till I come to the Ninth <hi>Column,</hi> wherein finding the <hi>Letter (p)</hi> I put it down at a convenient diſtance from the Word <hi>tibi,</hi> in the <hi>ſame</hi> line (it being the <hi>firſt Letter</hi> of another <hi>Word</hi>) and counting to the Ninth <hi>Column</hi> from <hi>p, I</hi> therein find the Letter <hi>(r)</hi> which put<g ref="char:EOLhyphen"/>ting down to <hi>p,</hi> (as you may ſee done be<g ref="char:EOLhyphen"/>fore) I from thence reckoning to the Ninth <hi>Column,</hi> do therein find the <hi>Letter (o)</hi> which l add to <hi>r,</hi> and from thence coun<g ref="char:EOLhyphen"/>ting to the Ninth <hi>Column,</hi> I there meet the <hi>Letter (d)</hi> which I put down next to <hi>o,</hi> and from thence I go on to the Ninth <hi>Column,</hi> wherein finding the <hi>Letter (u)</hi> I add it to <hi>d,</hi> and from thence count to the Ninth <hi>Column,</hi> and therein finding the <hi>Letter (c),</hi> I put it down next to <hi>u,</hi> and counting from thence to the Ninth <hi>Co<g ref="char:EOLhyphen"/>lumn,</hi> I find therein the <hi>Letter (u),</hi> which putting to <hi>c,</hi> I reckon from thence to the Ninth <hi>Column,</hi> and finding therein the <hi>Letter (n),</hi> I add it to <hi>u,</hi> and counting
+<pb n="16" facs="tcp:36331:12"/>from thence to the ninth <hi>Column,</hi> I find there the <hi>Letter (t),</hi> which putting down next to <hi>n,</hi> I proceed to count from thence to the ninth <hi>Column,</hi> in which finding a <hi>Blank, I</hi> thereby know that the fourth <hi>Word</hi> of <hi>this Verſe</hi> is wrote out, and that that it hath <hi>no more letters,</hi> then <hi>producunt.</hi>
+               </p>
+               <p>To work out the <hi>fifth word</hi> of the <hi>Verſe, I</hi> apply the fifth <hi>Figure</hi> in order (which is 8) to the fifth <hi>Table,</hi> and counting the firſt <hi>Column</hi> thereof 9, <hi>I</hi> there make a ſtop, and finding therein the <hi>letter (s), I</hi> put it down (as you ſee above) at a fit diſtance from the word <hi>producunt,</hi> and from thence counting to the ninth <hi>Column, I</hi> therein find the <hi>letter (i),</hi> and ſetting it down next to <hi>s, I</hi> from thence reckon to the ninth <hi>Column,</hi> and finding there the <hi>letter (d) I</hi> add it to <hi>i,</hi> from whence counting to the ninth <hi>Column, I</hi> find therein the <hi>letter (e)</hi> which <hi>I</hi> put down next to <hi>d,</hi> and counting from thence to the ninth <hi>Column, I</hi> there find the <hi>letter (r),</hi> which <hi>I</hi> add to <hi>e,</hi> and proceed to reckon from thence to the
+<pb n="17" facs="tcp:36331:12"/>ninth <hi>Column,</hi> in which Finding the <hi>letter (a) I</hi> put it down to <hi>r,</hi> and numbring from thence to the ninth <hi>Column, I</hi> Find there a <hi>Blank,</hi> by which <hi>I</hi> know that there are to be <hi>no more letters</hi> in the Fifth <hi>Word</hi> of the <hi>Verſe,</hi> then <hi>Sidera.</hi>
+               </p>
+               <p>To work out the <hi>ſixth</hi> and <hi>laſt Word</hi> of the <hi>Verſe, I</hi> apply the <hi>ſixth</hi> and <hi>laſt Figure, viz.</hi> 2, to the <hi>ſixth</hi> and <hi>laſt Table,</hi> and counting the <hi>firſt Column</hi> thereof 3, the next 4, and forwards till <hi>I</hi> come to the ninth <hi>Column,</hi> wherein Finding the <hi>letter (p) I</hi> write it down at a convenient diſtance from the Word <hi>Sidera,</hi> and from the <hi>Co<g ref="char:EOLhyphen"/>lumn</hi> wherein <hi>I</hi> found this <hi>p, I</hi> count to the ninth <hi>Column,</hi> and therein Finding the <hi>letter (r)</hi> I write it down next to <hi>p,</hi> and reckoning on to the ninth <hi>Column</hi> from thence, <hi>I</hi> Find therein the <hi>letter (a),</hi> which putting down next to <hi>r, I</hi> reckon from thence to the ninth <hi>Column,</hi> wherein find<g ref="char:EOLhyphen"/>ing the <hi>letter (v),</hi> I add it to <hi>a,</hi> and count<g ref="char:EOLhyphen"/>ing from thence to the ninth <hi>Column, I</hi> do therein Find the <hi>letter (a),</hi> and putting it
+<pb n="18" facs="tcp:36331:13"/>down next to <hi>v, I</hi> from thence proceed to count to the ninth <hi>Column,</hi> and Finding therein a <hi>Blank, I</hi> thereby underſtand that this Word is ended, and there are to be <hi>no more letters</hi> in the <hi>ſixth</hi> and <hi>laſt Word</hi> of the <hi>Verſe,</hi> then <hi>prava.</hi>
+               </p>
+               <p>By which ſeveral <hi>Operations</hi> I have made it plain to you, that in this <hi>Set of Figures,</hi> (467182) the <hi>Figure</hi> (4) in the <hi>firſt</hi> place produceth the <hi>firſt word</hi> of the <hi>Verſe, Triſtia;</hi> the <hi>Figure</hi> (6) in the <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> place bringeth out the <hi>ſecond word, Fata;</hi> the <hi>Figure</hi> (7) in the <hi>Third</hi> place produceth the <hi>third word, tibi;</hi> the <hi>Figure</hi> (1) in the <hi>fourth</hi> place worketh out the <hi>fourth word, producunt:</hi> the <hi>Figure</hi> (8) in the <hi>fifth</hi> place formeth out the <hi>fifth word Sidera,</hi> and that the <hi>Figure</hi> (2) in the <hi>ſixth</hi> and <hi>laſt place</hi> doth work out the <hi>ſixth</hi> and <hi>laſt word</hi> of the <hi>Verſe, Prava.</hi> Every of which 6 <hi>words</hi> being wrote down on a piece of Paper (as before is taught) as they were wrought out, makes this <hi>Hexa<g ref="char:EOLhyphen"/>meter Verſe.</hi>
+               </p>
+               <pb n="19" facs="tcp:36331:13"/>
+               <q>Triſtia fata tibi producunt ſidera prava.</q>
+               <p>As to the <hi>Trueneſs</hi> of the <hi>Latin,</hi> and the <hi>Verſe,</hi> I <hi>appeal</hi> to any ingenious <hi>Gram<g ref="char:EOLhyphen"/>marian,</hi> and as to the <hi>Senſe,</hi> I could wiſh the <hi>Phyſiologiſts</hi> had not ſubſcribed <hi>their Probatum eſt.</hi>
+               </p>
+               <p>You muſt <hi>Remember,</hi> that when you put the <hi>Figure</hi> 9 amongſt any <hi>Set</hi> of <hi>Fi<g ref="char:EOLhyphen"/>gures,</hi> and appropriate it to its <hi>proper Ta<g ref="char:EOLhyphen"/>ble,</hi> you always count the <hi>firſt Column</hi> of <hi>that Table,</hi> as 1, the next <hi>Column</hi> 2, and ſo reckon on till you come to the Ninth, and ſo to proceed in the <hi>Operation,</hi> as with any other <hi>Figure.</hi>
+               </p>
+               <p>As for <hi>Example,</hi> you will find done in this <hi>Set</hi> of <hi>Figures</hi> (988978) (where the <hi>Figure</hi> 9 is in the <hi>firſt</hi> and <hi>fourth place</hi>) which being workt out by <hi>theſe Tables,</hi> produceth this <hi>Verſe.</hi>
+               </p>
+               <q>Perfida dicta mihi confirmant ſomnia multa.</q>
+               <pb n="20" facs="tcp:36331:14"/>
+               <p>Which <hi>Set</hi> of <hi>Figures</hi> if you place ex<g ref="char:EOLhyphen"/>actly <hi>backwards,</hi> thus (879889) you will have a <hi>Verſe</hi> wrought out conſiſting of <hi>Latin words</hi> quite <hi>different</hi> from the for<g ref="char:EOLhyphen"/>mer, which make an abſolute <hi>Alteration</hi> in the <hi>Senſe</hi> alſo: For you are to know, that the <hi>Alteration</hi> of the place of any of the ſix <hi>Figures,</hi> (you propoſe to make your <hi>Set</hi> of) produceth a <hi>Verſe different</hi> in <hi>Words</hi> and <hi>Senſe:</hi> You will find the laſt inverted <hi>Set</hi> of <hi>Figures</hi> (if truly workt out by <hi>their</hi> reſpective <hi>Tables</hi>) to yield this <hi>Verſe.</hi>
+               </p>
+               <q>Impia facta, ſcio, praedicunt ſidera ſaepe.</q>
+               <p>By every way changing the <hi>Figures</hi> places will be produced ſuch <hi>variety</hi> of different <hi>Latin words</hi> to compoſe <hi>Verſes</hi> of, cauſing ſuch various <hi>Alteration</hi> in their <hi>Senſe,</hi> that theſe <hi>Operations</hi> cannot but prove very delightful to him that underſtands the <hi>Latin Tongue;</hi> and not a little grateful to <hi>him</hi> takes pleaſure in the Power of <hi>Num<g ref="char:EOLhyphen"/>bers.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36331:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
